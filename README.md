@@ -6,7 +6,7 @@ GV: Vũ Thị Hạnh <br>
 
 > Tên của hàng: Classic Groove <br>
 
-Thành viên:
+Thành viên: <br>
 La Hiểu Phong <br>
 Nguyễn Long Vũ <br>
 Lê Duy Quân <br>
